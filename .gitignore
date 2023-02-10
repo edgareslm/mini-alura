@@ -1,1 +1,8 @@
+# Ignora la carpeta node_modules
 node_modules/
+
+# Carpeta de código generado en preprocesadores
+dist/
+
+# archivo de connfiguracion postcss
+postcss.config.js
