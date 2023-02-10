@@ -1,0 +1,11 @@
+.container{
+    display:flex;
+    justify-content:space-betwen;
+    align-items: center;
+}
+.container .headerPrincipal-titulo{
+       flex-grow: 1;
+    }
+.container .headerPrincipal-nav{
+       display:flex;
+    }
